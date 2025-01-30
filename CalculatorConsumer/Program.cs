@@ -6,6 +6,7 @@ using RabbitMQ.Client.Events;
 using Microsoft.EntityFrameworkCore;
 using CalculatorApi.Models;
 using CalculatorApi.Data;
+using Microsoft.Data.Sqlite;
 
 namespace CalculatorConsumer
 {
