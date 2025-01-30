@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mj7SMYbRsVA=",
+  "dgSpecHash": "0pQxZe6npE0=",
   "success": true,
-  "projectFilePath": "c:\\DuarteProject\\CacculatorConsumer\\CalculatorConsumer\\CalculatorConsumer.csproj",
+  "projectFilePath": "C:\\DuarteProject\\CacculatorConsumer\\CalculatorConsumer\\CalculatorConsumer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HX99-1\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\HX99-1\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

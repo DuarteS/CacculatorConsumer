@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\DuarteProject\\CacculatorConsumer\\CalculatorConsumer\\CalculatorConsumer.csproj": {}
+    "C:\\DuarteProject\\CacculatorConsumer\\CalculatorConsumer\\CalculatorConsumer.csproj": {}
   },
   "projects": {
-    "c:\\DuarteProject\\CacculatorConsumer\\CalculatorConsumer\\CalculatorConsumer.csproj": {
+    "C:\\DuarteProject\\CacculatorConsumer\\CalculatorConsumer\\CalculatorConsumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\DuarteProject\\CacculatorConsumer\\CalculatorConsumer\\CalculatorConsumer.csproj",
+        "projectUniqueName": "C:\\DuarteProject\\CacculatorConsumer\\CalculatorConsumer\\CalculatorConsumer.csproj",
         "projectName": "CalculatorConsumer",
-        "projectPath": "c:\\DuarteProject\\CacculatorConsumer\\CalculatorConsumer\\CalculatorConsumer.csproj",
+        "projectPath": "C:\\DuarteProject\\CacculatorConsumer\\CalculatorConsumer\\CalculatorConsumer.csproj",
         "packagesPath": "C:\\Users\\HX99-1\\.nuget\\packages\\",
-        "outputPath": "c:\\DuarteProject\\CacculatorConsumer\\CalculatorConsumer\\obj\\",
+        "outputPath": "C:\\DuarteProject\\CacculatorConsumer\\CalculatorConsumer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HX99-1\\AppData\\Roaming\\NuGet\\NuGet.Config"

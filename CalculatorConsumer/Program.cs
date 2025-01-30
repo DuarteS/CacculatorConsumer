@@ -36,6 +36,7 @@ namespace CalculatorConsumer
                 if (calculation != null)
                 {
                     calculation.Result = EvaluateExpression(calculation.Expression);
+                    calculation.Id = Guid.NewGuid();
                     SaveToDatabase(calculation);
                 }
 

@@ -9,7 +9,7 @@ namespace CalculatorApi.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Data Source=calculations.db");
+            optionsBuilder.UseSqlServer("Server=localhost;Database=CalculationsDb;Trusted_Connection=True;TrustServerCertificate=True;");
         }
     }
 }
